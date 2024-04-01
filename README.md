@@ -1,6 +1,6 @@
-#Hi
-##About Me
+# Hi
+## About Me
 
-##Contact
+## Contact
 
-##Education
+## Education
